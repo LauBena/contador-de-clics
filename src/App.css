@@ -5,10 +5,10 @@
 }
 
 html, body{
-    background-color: #1b1b32;
+    background-color: #62c1d298;
 }
 
-.App{
+.App {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
